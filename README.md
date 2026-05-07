@@ -6,6 +6,8 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de Machine Lea
 A proposta do projeto é construir uma Rede Neural capaz de identificar padrões de comportamento e prever a probabilidade de um cliente cancelar um serviço ou assinatura
 
 Tecnologias Utilizadas
+
+
 Python
 
 Pandas
@@ -14,7 +16,10 @@ Numpy
 
 Scikit-Learn
 
-TensorFlow Keras
+TensorFlow 
+
+Keras
+
 
 Estrutura do Projeto
 
