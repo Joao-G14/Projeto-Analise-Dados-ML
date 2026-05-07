@@ -8,9 +8,13 @@ A proposta do projeto é construir uma Rede Neural capaz de identificar padrões
 Tecnologias Utilizadas
 
 Python
+
 Pandas
+
 Numpy
+
 Scikit-Learn
+
 TensorFlow Keras
 
 Estrutura do Projeto
